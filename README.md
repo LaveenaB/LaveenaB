@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LaveenaB
-- 👀 I’m interested in Data Science and Investment Banking
+- 👀 Aspiring Data Scientist with a good working experience in Investment Banking Domain
 - 🌱 I’m currently learning Python, R, Power BI, Tableau
 - 💞️ I’m looking to collaborate on Python, R
 - 📫 How to reach me Laveena.balani@outlook.com
